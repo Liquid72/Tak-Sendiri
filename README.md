@@ -32,5 +32,6 @@ Front-end:
 Server-side:
 - Serverless Service: Azure Function
 - Container : Docker
-- Container Service : Azure Container Interface
+- Container Service : Azure Container Instance
 - OpenAI
+- FastAPI
